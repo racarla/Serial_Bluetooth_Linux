@@ -45,7 +45,7 @@ Note: You can check the bluetooth status service
 ```
 sudo service bluetooth status
 ```
-![alt text](https://raw.githubusercontent.com/racarla/Serial_Bluetooth_Linux/master/bluetooth-linux-rfkill.png)
+![alt text](https://raw.githubusercontent.com/racarla/Serial_Bluetooth_Linux/master/bluetooth-linux-service-status.png)
 
 ## Search for Bluetooth devices
 

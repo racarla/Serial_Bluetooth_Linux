@@ -28,7 +28,7 @@ Next, make sure that your Bluetooth device is not blocked and also serves to che
 sudo rfkill list
 ```
 
-Insert the screenshot
+![alt text](https://raw.githubusercontent.com/racarla/Serial_Bluetooth_Linux/master/bluetooth-linux-rfkill.png)
 
 As you can see in the screenshot above, my Bluetooth device is not blocked. If yours is locked for some reason, you can unlock it using the same rfkill command.
 

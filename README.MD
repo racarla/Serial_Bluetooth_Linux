@@ -41,8 +41,15 @@ Finally, make sure that the Bluetooth service is active by executing the followi
 ```
 sudo service bluetooth start
 ```
+Note: You can check the bluetooth status service
+```
+sudo service bluetooth status
+```
+![alt text](https://raw.githubusercontent.com/racarla/Serial_Bluetooth_Linux/master/bluetooth-linux-rfkill.png)
 
 ## Search for Bluetooth devices
+
+
 
 ## Pairing and connection to devices
 

@@ -1,4 +1,4 @@
-# Tutorial Use a bluetooth usb or card like serial in Linux
+# Tutorial - Use a bluetooth usb or card like serial in Linux
 
 This tutorial consist on the installation and configuration of bluetooth in Linux.
 
@@ -16,31 +16,31 @@ So if you have had problems connecting to your Bluetooth accessories from your L
 
 First, you must install the required packages on your computer. If you are in Ubuntu or in a distribution based on Ubuntu, execute the following command:
 
-'''
+```
 sudo apt-get install bluetooth bluez bluez-tools rfkill
-'''
+```
 
 ## Checking
 
 Next, make sure that your Bluetooth device is not blocked and also serves to check if the device is connected. You can check with the rfkill utility:
 
-'''
+```
 sudo rfkill list
-'''
+```
 
 Insert the screenshot
 
 As you can see in the screenshot above, my Bluetooth device is not blocked. If yours is locked for some reason, you can unlock it using the same rfkill command.
 
-'''
+```
 sudo rfkill unblock bluetooth
-'''
+```
 
 Finally, make sure that the Bluetooth service is active by executing the following command.
 
-'''
+```
 sudo service bluetooth start
-'''
+```
 
 ## Search for Bluetooth devices
 

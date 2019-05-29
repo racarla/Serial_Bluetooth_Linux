@@ -1,4 +1,4 @@
-echo "# Tutorial Use a bluetooth usb or card like serial in Linux" >> README.md
+# Tutorial Use a bluetooth usb or card like serial in Linux
 
 This tutorial consist on the installation and configuration of bluetooth in Linux.
 
@@ -43,6 +43,8 @@ sudo service bluetooth start
 '''
 
 ## Search for Bluetooth devices
+
+## Emparejamiento y conexión a dispositivos
 
 ## References
 * [Setup Bluetooth in Linux](https://maslinux.es/como-configurar-bluetooth-en-gnulinux/)

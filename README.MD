@@ -1,4 +1,4 @@
-# Tutorial - Use a bluetooth usb or card like serial in Linux
+# Tutorial - Use a bluetooth device like serial in Linux
 
 This tutorial consist on the installation and configuration of bluetooth in Linux.
 
@@ -44,7 +44,11 @@ sudo service bluetooth start
 
 ## Search for Bluetooth devices
 
-## Emparejamiento y conexión a dispositivos
+## Pairing and connection to devices
+
+## Applications
+
+* Connect and communicate with the common serial HC-06 or similar for Arduino and the computer.
 
 ## References
 * [Setup Bluetooth in Linux](https://maslinux.es/como-configurar-bluetooth-en-gnulinux/)

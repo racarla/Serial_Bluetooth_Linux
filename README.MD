@@ -51,5 +51,5 @@ sudo service bluetooth start
 * Connect and communicate with the common serial HC-06 or similar for Arduino and the computer.
 
 ## References
-* [Setup Bluetooth in Linux](https://maslinux.es/como-configurar-bluetooth-en-gnulinux/)
+* [Setup Bluetooth in Linux](https://maslinux.es/como-configurar-bluetooth-en-gnulinux/) (29/05/2019)
 Interesting if you want to make the connection with a graphic tool and also connect a bluetooth headset.

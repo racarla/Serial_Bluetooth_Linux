@@ -1,4 +1,4 @@
-# Tutorial - Use a bluetooth device like serial in Linux
+# Tutorial - Use a bluetooth device like serial in Linux using CLI
 
 This tutorial consist on the installation and configuration of bluetooth in Linux.
 
@@ -49,6 +49,10 @@ sudo service bluetooth start
 ## Applications
 
 * Connect and communicate with the common serial HC-06 or similar for Arduino and the computer.
+
+## Abbreviations
+
+* CLI - Command Line Interface (Terminal)
 
 ## References
 * [Setup Bluetooth in Linux](https://maslinux.es/como-configurar-bluetooth-en-gnulinux/) (29/05/2019)

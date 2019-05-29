@@ -12,7 +12,7 @@ But usually once you have installed some packages and made some adjustments, eve
 
 So if you have had problems connecting to your Bluetooth accessories from your Linux PC, this entry should help you.
 
-## Installing
+## Installing packages
 
 First, you must install the required packages on your computer. If you are in Ubuntu or in a distribution based on Ubuntu, execute the following command:
 
@@ -20,7 +20,7 @@ First, you must install the required packages on your computer. If you are in Ub
 sudo apt-get install bluetooth bluez bluez-tools rfkill
 ```
 
-## Checking
+## Checking, preparing and starting
 
 Next, make sure that your Bluetooth device is not blocked and also serves to check if the device is connected. You can check with the rfkill utility:
 

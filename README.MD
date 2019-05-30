@@ -67,4 +67,5 @@ Interesting if you want to make the connection with a graphic tool and also conn
 * http://www.linux-magazine.com/Issues/2017/197/Command-Line-bluetoothctl
 * https://askubuntu.com/questions/80960/how-to-change-bluetooth-broadcast-device-name
 * https://superuser.com/questions/778660/changing-bluetooth-device-name
+* https://docs.ubuntu.com/core/en/stacks/bluetooth/bluez/docs/reference/available-commands
 

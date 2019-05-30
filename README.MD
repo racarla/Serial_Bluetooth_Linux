@@ -65,7 +65,8 @@ sudo service bluetooth status
 * [Setup Bluetooth in Linux](https://maslinux.es/como-configurar-bluetooth-en-gnulinux/) (29/05/2019)
 Interesting if you want to make the connection with a graphic tool and also connect a bluetooth headset.
 * http://www.linux-magazine.com/Issues/2017/197/Command-Line-bluetoothctl
-* https://askubuntu.com/questions/80960/how-to-change-bluetooth-broadcast-device-name
-* https://superuser.com/questions/778660/changing-bluetooth-device-name
 * https://docs.ubuntu.com/core/en/stacks/bluetooth/bluez/docs/reference/available-commands
+* https://blog.dbrgn.ch/2017/8/22/hc06-bluetooth-terminal-on-linux/
+* https://gist.github.com/0/c73e2557d875446b9603
+* http://manpages.ubuntu.com/manpages/cosmic/man1/rfcomm.1.html
 
